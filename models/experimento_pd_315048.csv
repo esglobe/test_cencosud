@@ -1,0 +1,2 @@
+,item_id,epocas,prediction_order,auto_order,training_mse,training_rmse,training_mae,trainig_mape,validation_mse,validation_rmse,validation_mae,validation_mape
+0,315048,90,14,180,1.1667459850979767,1.361296193742248,0.8899997429720022,9.55098955070692,1.1667459850979767,43.275391733829174,5.147091007774392,57.058667877837586
