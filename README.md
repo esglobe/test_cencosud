@@ -28,7 +28,4 @@ En el notebook *ml_test_cencosud.ipynb* se realizan los desarrollos del test.
 
 ## Visualización de resultados
 
-Los resultados del estudio están disponibles en [Google Data Studio](https://datastudio.google.com/s/g35kN90BcUM)
-
-
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/561e06ef-df16-4e92-8cac-32797ca5b154/page/p_fz8uumb8zc" frameborder="0" style="border:0" allowfullscreen></iframe>
+Los resultados del estudio están disponibles en [Google Data Studio](https://datastudio.google.com/reporting/561e06ef-df16-4e92-8cac-32797ca5b154)
